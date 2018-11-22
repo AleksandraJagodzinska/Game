@@ -1,4 +1,4 @@
-import Paddle from "./paddle/";
+import Paddle from "./paddle";
 
 
 let canvas = document.getElementById("gameScreen");
